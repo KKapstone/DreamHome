@@ -31,9 +31,9 @@
 <br>
 
 ## 팀원 소개
-|사진|사진|사진|사진|사진|
+|<img src="https://user-images.githubusercontent.com/74610908/181160754-ebc6b787-073c-4d27-9991-8359c68ab88b.png" height="130px">|사진|<img src="https://user-images.githubusercontent.com/74610908/181162152-baef5451-6996-462c-8b4d-81c57e867eb9.png" height="130px">|<img src="https://user-images.githubusercontent.com/74610908/181161796-868c3f3c-3c07-4043-a223-a51c4e57af5a.png" height="130px">|사진|
 |---|---|---|---|---|
-|[이지연](https://github.com/thegreatjy)|[이규원]()|[이다희](https://github.com/LeeDahee23)|[임현정]()|[한수민]()|
+|[이지연](https://github.com/thegreatjy)|[이규원]()|[이다희](https://github.com/LeeDahee23)|[임현정](https://github.com/guswjd1gh)|[한수민]()|
 </br>
 
 ## 주요 기능
